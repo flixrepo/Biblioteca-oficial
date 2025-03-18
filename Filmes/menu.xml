@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[B]TV AO VIVO[/B]</name>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\TV ao Vivo.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
+<info>DIVIRTA-SE ASSISTINDO MELHORES CANAIS COM LINK DIRETO</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/abertos.xml</externallink>
+</channel>
+  
+<channel>
+<name>[B]FILMES[/B]</name>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Filmes.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
+<info>DIVIRTA-SE ASSISTINDO MELHORES FILMES COM LINK DIRETO</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>
+</channel>
+
+<channel>
+<name>[B]SERIES[/B]</name>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Séries.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
+<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
+</channel>
+
+  
+</channels>
