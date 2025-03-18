@@ -4,7 +4,7 @@
 
 <channel>
 <name>[B]TV AO VIVO[/B]</name>
-<thumbnail>special://home/addons\plugin.video.anonimo\resources\icons\TV ao Vivo.png</thumbnail>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\TV ao Vivo.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO MELHORES CANAIS COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/abertos.xml</externallink>
