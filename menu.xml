@@ -15,7 +15,7 @@
 <thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Filmes.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO MELHORES FILMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/menu.xml</externallink>
 </channel>
 
 <channel>
