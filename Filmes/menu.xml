@@ -12,7 +12,7 @@
   
 <channel>
 <name>[B]TRAILERS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Filmes.png</thumbnail>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Trailers.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO MELHORES FILMES COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>
@@ -28,7 +28,7 @@
 
 <channel>
 <name>[B]GÊNEROS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Séries.png</thumbnail>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Gêneros.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
@@ -36,7 +36,7 @@
 
 <channel>
 <name>[B]TAGS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Séries.png</thumbnail>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Tags.png</thumbnail>
 <fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
