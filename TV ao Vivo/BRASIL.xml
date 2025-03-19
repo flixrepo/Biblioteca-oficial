@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version=".0" encoding="UTF-8" standalone="yes"?>
 <items>
 
 <item>
 <title>SBT</title>
 <year>2025</year>
 <genre>canais abertos</genre>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334</thumbnail>
-<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-10801%2FLVW10801_Xvg4R0u57n%2Fchunklist.m3u8&amp;mode=12&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FSBT_2014.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20140822185434</link>
-<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 por Silvio Santos.</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/4/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?205042390334</thumbnail>
+<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-080%2FLVW080_Xvg4R0u57n%2Fchunklist.m3u8&amp;mode=2&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FSBT_204.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D204082285434</link>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 9 de agosto de 98 por Silvio Santos.</info>
 </item>
 
 
@@ -15,10 +15,10 @@
 <title>TV Globo</title>
 <year>2025</year>
 <genre>canais abertos</genre>
-<thumbnail>https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png</thumbnail>
-1
-<link>plugin://plugin.video.anonimo/?url=http%3A%2F%2Fconexao-vs.live%2FGLOBO%2Findex.m3u8&amp;mode=12&amp;iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia-brazil%2Fimages%2F9%2F96%2FNovo-logo-da-globo-png.png%2Frevision%2Flatest%3Fcb%3D20240512022213</link>
-<info>TV Globo é uma rede de televisão comercial aberta brasileira. Possui 123 emissoras próprias e afiliadas, além da transmissão no exterior pela TV Globo ...</info>
+<thumbnail>https://logodownload.org/wp-content/uploads/203/2/rede-globo-logo-0.png</thumbnail>
+
+<link>plugin://plugin.video.anonimo/?url=http%3A%2F%2Fconexao-vs.live%2FGLOBO%2Findex.m3u8&amp;mode=2&amp;iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia-brazil%2Fimages%2F9%2F96%2FNovo-logo-da-globo-png.png%2Frevision%2Flatest%3Fcb%3D202405202223</link>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. Possui 23 emissoras próprias e afiliadas, além da transmissão no exterior pela TV Globo ...</info>
 </item>
 
 <item>
@@ -26,8 +26,8 @@
 <year>2025</year>
 <genre>canais abertos</genre>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png</thumbnail>
-1
-<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2Fiptv.vivatele.com%3A443%2Flive%2Fviva_padrao%2Fviva2384%2F3.m3u8&amp;mode=12&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fc%2Fc0%2FBand_logo_with_wordmark.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F162%3Fcb%3D20160830235408</link>
+
+<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2Fiptv.vivatele.com%3A443%2Flive%2Fviva_padrao%2Fviva2384%2F3.m3u8&amp;mode=2&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fc%2Fc0%2FBand_logo_with_wordmark.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F62%3Fcb%3D2060830235408</link>
 <info>Band (abreviação de Bandeirantes, também chamada de Rede Bandeirantes) é uma rede de televisão comercial aberta brasileira, pertencente ao Grupo ...</info>
 </item>
 
@@ -35,29 +35,28 @@
 <title>Record TV</title>
 <year>2025</year>
 <genre>canais abertos</genre>
-<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png</thumbnail>
-1
-<link>plugin://plugin.video.anonimo/?url=http%3A%2F%2F179.124.14.153%3A8080%2F04%2Fmpegts&amp;mode=12&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fd6%2FRecord_logo_2016.png%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20161129172824</link>
-<info>Record é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 2012. Em 2010, foi eleita pelo mercado</info>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_206.png</thumbnail>
+
+<link>plugin://plugin.video.anonimo/?url=http%3A%2F%2F79.24.4.53%3A8080%2F04%2Fmpegts&amp;mode=2&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fd6%2FRecord_logo_206.png%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D2062972824</link>
+<info>Record é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 202. Em 200, foi eleita pelo mercado</info>
 </item>
 
 <item>
 <title>TV Cultura</title>
 <year>2025</year>
 <genre>canais abertos</genre>
-<thumbnail>https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png</thumbnail>
-1
-<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2Flive%2Flivestream%2Fplaylist.m3u8&amp;mode=12&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F8%2F82%2FCultura_logo_2013.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20171125215011</link>
-<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo, pertencente ao Governo de São Paulo. Foi inaugurada, originalmente, em 20 de setembro de 1960 pelos Diários</info>
+<thumbnail>https://logodownload.org/wp-content/uploads/207//tv-cultura-logo.png</thumbnail>
+
+<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2F5b33b87379a2.streamlock.net%3A443%2Flive%2Flivestream%2Fplaylist.m3u8&amp;mode=2&amp;iconimage=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F8%2F82%2FCultura_logo_203.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20725250</link>
+<info>TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo, pertencente ao Governo de São Paulo. Foi inaugurada, originalmente, em 20 de setembro de 960 pelos Diários</info>
 </item>
 
 <item>
 <title>Megapix</title>
 <year>2025</year>
 <genre>Filmes & Séries</genre>
-<thumbnail>https://static.wikia.nocookie.net/logopedia/images/8/8e/Megapix_2015.svg/revision/latest/scale-to-width-down/250?cb=20220425151703</thumbnail>
-1
-<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2Fembedcanaistv.live%2Fmegapix%2Ftracks-v1a1%2Fmono.m3u8%7CReferer%3Dhttps%3A%2F%2Fembedcanaistv.com%2F&amp;mode=12&amp;iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F8%2F8e%2FMegapix_2015.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F250%3Fcb%3D20220425151703</link>
+<thumbnail>https://megacanaisonline.pro/wp-content/uploads/2022/0/download-6-2.png</thumbnail>
+<link>plugin://plugin.video.anonimo/?url=https%3A%2F%2Fembedcanaistv.live%2Fmegapix%2Ftracks-va%2Fmono.m3u8%7CReferer%3Dhttps%3A%2F%2Fembedcanaistv.com%2F&amp;mode=2&amp;iconimage=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F8%2F8e%2FMegapix_205.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F250%3Fcb%3D202204255703</link>
 <info>O Megapix é um canal de filmes da Globosat que exibe produções de Hollywood dubladas em português. O canal é líder na programação de filmes entre os canais básicos da TV paga</info>
 </item>
 
@@ -66,7 +65,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -76,7 +75,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -86,7 +85,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -96,7 +95,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -106,7 +105,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -116,7 +115,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -126,7 +125,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -136,7 +135,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -146,7 +145,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -156,7 +155,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -166,7 +165,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -176,7 +175,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -186,7 +185,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -196,7 +195,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -206,7 +205,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -216,7 +215,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -226,7 +225,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -236,7 +235,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -246,7 +245,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -256,7 +255,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -266,7 +265,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -276,7 +275,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -286,7 +285,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -296,7 +295,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -306,7 +305,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -316,7 +315,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -326,7 +325,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -336,7 +335,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -346,7 +345,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -357,7 +356,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -368,7 +367,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -378,7 +377,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -388,7 +387,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -398,7 +397,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -408,7 +407,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -418,7 +417,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -428,7 +427,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -438,7 +437,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -448,7 +447,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -458,7 +457,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -468,7 +467,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -478,7 +477,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -488,7 +487,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -498,7 +497,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -508,7 +507,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -518,7 +517,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -528,7 +527,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -538,7 +537,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -548,7 +547,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -558,7 +557,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -568,7 +567,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -578,7 +577,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -588,7 +587,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -598,7 +597,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -608,7 +607,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -618,7 +617,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -628,7 +627,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -638,7 +637,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -648,7 +647,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -658,7 +657,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -668,7 +667,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -678,7 +677,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -688,7 +687,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -698,7 +697,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -708,7 +707,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -718,7 +717,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -728,7 +727,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -738,7 +737,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -748,7 +747,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -758,7 +757,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -768,7 +767,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -778,7 +777,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -788,7 +787,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
@@ -798,7 +797,7 @@
 <year>2025</year>
 <genre></genre>
 <thumbnail></thumbnail>
-1
+
 <link></link>
 <info>!</info>
 </item>
