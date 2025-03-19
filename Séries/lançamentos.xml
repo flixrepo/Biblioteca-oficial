@@ -3,44 +3,15 @@
 <channels>
 
 <channel>
-<name>[B]LANÇAMENTOS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Lançamentos.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO MELHORES CANAIS COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/abertos.xml</externallink>
+<title>Demolidor: Renascido</title>
+<year>2025</year>
+<genre>Drama, Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg</fanart>
+<info>Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.</info>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/S%C3%A9ries/S%C3%A9ries/Demolidor%20Renascido%20(2025)/menu.xml</externallink>
 </channel>
   
-<channel>
-<name>[B]ANIMES[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\animes.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO MELHORES FILMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>
-</channel>
-
-<channel>
-<name>[B]NOVELAS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Novelas.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
-</channel>
-
-<channel>
-<name>[B]GÊNEROS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Gêneros.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
-</channel>
-
-<channel>
-<name>[B]TÍTULOS[/B]</name>
-<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Títulos.png</thumbnail>
-<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
-</channel>
 
   
 </channels>
