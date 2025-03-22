@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[B]FILMES 4K[/B]</name>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Filmes 4k.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
+<info>DIVIRTA-SE ASSISTINDO MELHORES CANAIS COM LINK DIRETO</info>
+<externallink>https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/Filmes/lancamento.xml</externallink>
+</channel>
+
+  
+</channels>
